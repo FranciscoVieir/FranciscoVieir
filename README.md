@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Francisco Vieira 👋
 
 - 🔭 Em busca de novos aprendizados, 
-- 🌱 O meu objetivo é ser desenvolvedor Full Stack e desfrutar desse mar de oportunidades.
+- 🌱 O meu objetivo é ser desenvolvedor Full Stack e usufruir desse mar de oportunidades.
 <div align="center">
   <a href="https://github.com/FranciscoVieir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoVieir&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
